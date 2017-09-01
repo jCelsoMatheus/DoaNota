@@ -1,0 +1,55 @@
+C:\Users\Rafa Oliveira\Desktop\Projeto EP 2\DoaNota\DoaNota\bin\roslyn\csc.exe
+C:\Users\Rafa Oliveira\Desktop\Projeto EP 2\DoaNota\DoaNota\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Rafa Oliveira\Desktop\Projeto EP 2\DoaNota\DoaNota\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Rafa Oliveira\Desktop\Projeto EP 2\DoaNota\DoaNota\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Rafa Oliveira\Desktop\Projeto EP 2\DoaNota\DoaNota\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Rafa Oliveira\Desktop\Projeto EP 2\DoaNota\DoaNota\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Rafa Oliveira\Desktop\Projeto EP 2\DoaNota\DoaNota\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Rafa Oliveira\Desktop\Projeto EP 2\DoaNota\DoaNota\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Rafa Oliveira\Desktop\Projeto EP 2\DoaNota\DoaNota\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Rafa Oliveira\Desktop\Projeto EP 2\DoaNota\DoaNota\bin\roslyn\vbc.exe
+C:\Users\Rafa Oliveira\Desktop\Projeto EP 2\DoaNota\DoaNota\bin\roslyn\VBCSCompiler.exe
+C:\Users\Rafa Oliveira\Desktop\Projeto EP 2\DoaNota\DoaNota\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Rafa Oliveira\Desktop\Projeto EP 2\DoaNota\DoaNota\bin\DoaNota.dll.config
+C:\Users\Rafa Oliveira\Desktop\Projeto EP 2\DoaNota\DoaNota\bin\DoaNota.dll
+C:\Users\Rafa Oliveira\Desktop\Projeto EP 2\DoaNota\DoaNota\bin\DoaNota.pdb
+C:\Users\Rafa Oliveira\Desktop\Projeto EP 2\DoaNota\DoaNota\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Rafa Oliveira\Desktop\Projeto EP 2\DoaNota\DoaNota\bin\Newtonsoft.Json.dll
+C:\Users\Rafa Oliveira\Desktop\Projeto EP 2\DoaNota\DoaNota\bin\System.Net.Http.Formatting.dll
+C:\Users\Rafa Oliveira\Desktop\Projeto EP 2\DoaNota\DoaNota\bin\System.Web.Http.dll
+C:\Users\Rafa Oliveira\Desktop\Projeto EP 2\DoaNota\DoaNota\bin\System.Web.Http.WebHost.dll
+C:\Users\Rafa Oliveira\Desktop\Projeto EP 2\DoaNota\DoaNota\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Rafa Oliveira\Desktop\Projeto EP 2\DoaNota\DoaNota\bin\Newtonsoft.Json.xml
+C:\Users\Rafa Oliveira\Desktop\Projeto EP 2\DoaNota\DoaNota\bin\System.Net.Http.Formatting.xml
+C:\Users\Rafa Oliveira\Desktop\Projeto EP 2\DoaNota\DoaNota\bin\System.Web.Http.xml
+C:\Users\Rafa Oliveira\Desktop\Projeto EP 2\DoaNota\DoaNota\bin\System.Web.Http.WebHost.xml
+C:\Users\Rafa Oliveira\Desktop\Projeto EP 2\DoaNota\DoaNota\obj\Debug\DoaNota.dll
+C:\Users\Rafa Oliveira\Desktop\Projeto EP 2\DoaNota\DoaNota\obj\Debug\DoaNota.pdb
+C:\Users\Walte\Google Drive\BANDTEC\2017-1\Escritório de Projetos 3\Projeto EP 2\DoaNota\DoaNota\bin\roslyn\csc.exe
+C:\Users\Walte\Google Drive\BANDTEC\2017-1\Escritório de Projetos 3\Projeto EP 2\DoaNota\DoaNota\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Walte\Google Drive\BANDTEC\2017-1\Escritório de Projetos 3\Projeto EP 2\DoaNota\DoaNota\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Walte\Google Drive\BANDTEC\2017-1\Escritório de Projetos 3\Projeto EP 2\DoaNota\DoaNota\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Walte\Google Drive\BANDTEC\2017-1\Escritório de Projetos 3\Projeto EP 2\DoaNota\DoaNota\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Walte\Google Drive\BANDTEC\2017-1\Escritório de Projetos 3\Projeto EP 2\DoaNota\DoaNota\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Walte\Google Drive\BANDTEC\2017-1\Escritório de Projetos 3\Projeto EP 2\DoaNota\DoaNota\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Walte\Google Drive\BANDTEC\2017-1\Escritório de Projetos 3\Projeto EP 2\DoaNota\DoaNota\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Walte\Google Drive\BANDTEC\2017-1\Escritório de Projetos 3\Projeto EP 2\DoaNota\DoaNota\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Walte\Google Drive\BANDTEC\2017-1\Escritório de Projetos 3\Projeto EP 2\DoaNota\DoaNota\bin\roslyn\vbc.exe
+C:\Users\Walte\Google Drive\BANDTEC\2017-1\Escritório de Projetos 3\Projeto EP 2\DoaNota\DoaNota\bin\roslyn\VBCSCompiler.exe
+C:\Users\Walte\Google Drive\BANDTEC\2017-1\Escritório de Projetos 3\Projeto EP 2\DoaNota\DoaNota\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Walte\Google Drive\BANDTEC\2017-1\Escritório de Projetos 3\Projeto EP 2\DoaNota\DoaNota\bin\DoaNota.dll.config
+C:\Users\Walte\Google Drive\BANDTEC\2017-1\Escritório de Projetos 3\Projeto EP 2\DoaNota\DoaNota\bin\DoaNota.dll
+C:\Users\Walte\Google Drive\BANDTEC\2017-1\Escritório de Projetos 3\Projeto EP 2\DoaNota\DoaNota\bin\DoaNota.pdb
+C:\Users\Walte\Google Drive\BANDTEC\2017-1\Escritório de Projetos 3\Projeto EP 2\DoaNota\DoaNota\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Walte\Google Drive\BANDTEC\2017-1\Escritório de Projetos 3\Projeto EP 2\DoaNota\DoaNota\bin\Newtonsoft.Json.dll
+C:\Users\Walte\Google Drive\BANDTEC\2017-1\Escritório de Projetos 3\Projeto EP 2\DoaNota\DoaNota\bin\System.Net.Http.Formatting.dll
+C:\Users\Walte\Google Drive\BANDTEC\2017-1\Escritório de Projetos 3\Projeto EP 2\DoaNota\DoaNota\bin\System.Web.Http.dll
+C:\Users\Walte\Google Drive\BANDTEC\2017-1\Escritório de Projetos 3\Projeto EP 2\DoaNota\DoaNota\bin\System.Web.Http.WebHost.dll
+C:\Users\Walte\Google Drive\BANDTEC\2017-1\Escritório de Projetos 3\Projeto EP 2\DoaNota\DoaNota\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Walte\Google Drive\BANDTEC\2017-1\Escritório de Projetos 3\Projeto EP 2\DoaNota\DoaNota\bin\Newtonsoft.Json.xml
+C:\Users\Walte\Google Drive\BANDTEC\2017-1\Escritório de Projetos 3\Projeto EP 2\DoaNota\DoaNota\bin\System.Net.Http.Formatting.xml
+C:\Users\Walte\Google Drive\BANDTEC\2017-1\Escritório de Projetos 3\Projeto EP 2\DoaNota\DoaNota\bin\System.Web.Http.xml
+C:\Users\Walte\Google Drive\BANDTEC\2017-1\Escritório de Projetos 3\Projeto EP 2\DoaNota\DoaNota\bin\System.Web.Http.WebHost.xml
+C:\Users\Walte\Google Drive\BANDTEC\2017-1\Escritório de Projetos 3\Projeto EP 2\DoaNota\DoaNota\obj\Debug\DoaNota.csprojResolveAssemblyReference.cache
+C:\Users\Walte\Google Drive\BANDTEC\2017-1\Escritório de Projetos 3\Projeto EP 2\DoaNota\DoaNota\obj\Debug\DoaNota.dll
+C:\Users\Walte\Google Drive\BANDTEC\2017-1\Escritório de Projetos 3\Projeto EP 2\DoaNota\DoaNota\obj\Debug\DoaNota.pdb
