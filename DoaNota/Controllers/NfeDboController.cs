@@ -16,7 +16,7 @@ namespace DoaNota.Controllers
         [HttpGet]
         public double GetCustomers(string cfe, string total, int id)
         {
-            using (SqlConnection conn = sql.OpenConnection())
+            using (SqlConnection conn = Sql.OpenConnection())
             {
                 double valorTotal = double.Parse(total.Replace(',', '.'), System.Globalization.CultureInfo.InvariantCulture);
                 // Cria um comando para atualizar um registro da tabela

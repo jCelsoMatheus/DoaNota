@@ -6,7 +6,7 @@ using System.Web;
 
 namespace DoaNota
 {
-    public static class sql
+    public static class Sql
     {
         public static SqlConnection OpenConnection()
         {

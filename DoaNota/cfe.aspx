@@ -1,4 +1,4 @@
-﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="cfe.aspx.cs" Inherits="DoaNota.cfe" %>
+﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="Cfe.aspx.cs" Inherits="DoaNota.cfe" %>
 
 <!DOCTYPE html>
 

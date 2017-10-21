@@ -18,7 +18,7 @@ namespace DoaNota
                 ListBox1.Items.Clear();
 
 
-                using (SqlConnection conn = sql.OpenConnection())
+                using (SqlConnection conn = Sql.OpenConnection())
                 {
 
 

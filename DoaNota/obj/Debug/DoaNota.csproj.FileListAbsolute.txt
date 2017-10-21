@@ -53,3 +53,31 @@ C:\Users\Walte\Google Drive\BANDTEC\2017-1\Escritório de Projetos 3\Projeto EP 
 C:\Users\Walte\Google Drive\BANDTEC\2017-1\Escritório de Projetos 3\Projeto EP 2\DoaNota\DoaNota\obj\Debug\DoaNota.csprojResolveAssemblyReference.cache
 C:\Users\Walte\Google Drive\BANDTEC\2017-1\Escritório de Projetos 3\Projeto EP 2\DoaNota\DoaNota\obj\Debug\DoaNota.dll
 C:\Users\Walte\Google Drive\BANDTEC\2017-1\Escritório de Projetos 3\Projeto EP 2\DoaNota\DoaNota\obj\Debug\DoaNota.pdb
+C:\projeto\DoaNota\DoaNota\bin\roslyn\csc.exe
+C:\projeto\DoaNota\DoaNota\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\projeto\DoaNota\DoaNota\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\projeto\DoaNota\DoaNota\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\projeto\DoaNota\DoaNota\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\projeto\DoaNota\DoaNota\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\projeto\DoaNota\DoaNota\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\projeto\DoaNota\DoaNota\bin\roslyn\System.Collections.Immutable.dll
+C:\projeto\DoaNota\DoaNota\bin\roslyn\System.Reflection.Metadata.dll
+C:\projeto\DoaNota\DoaNota\bin\roslyn\vbc.exe
+C:\projeto\DoaNota\DoaNota\bin\roslyn\VBCSCompiler.exe
+C:\projeto\DoaNota\DoaNota\bin\roslyn\VBCSCompiler.exe.config
+C:\projeto\DoaNota\DoaNota\bin\DoaNota.dll.config
+C:\projeto\DoaNota\DoaNota\bin\DoaNota.dll
+C:\projeto\DoaNota\DoaNota\bin\DoaNota.pdb
+C:\projeto\DoaNota\DoaNota\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\projeto\DoaNota\DoaNota\bin\Newtonsoft.Json.dll
+C:\projeto\DoaNota\DoaNota\bin\System.Net.Http.Formatting.dll
+C:\projeto\DoaNota\DoaNota\bin\System.Web.Http.dll
+C:\projeto\DoaNota\DoaNota\bin\System.Web.Http.WebHost.dll
+C:\projeto\DoaNota\DoaNota\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\projeto\DoaNota\DoaNota\bin\Newtonsoft.Json.xml
+C:\projeto\DoaNota\DoaNota\bin\System.Net.Http.Formatting.xml
+C:\projeto\DoaNota\DoaNota\bin\System.Web.Http.xml
+C:\projeto\DoaNota\DoaNota\bin\System.Web.Http.WebHost.xml
+C:\projeto\DoaNota\DoaNota\obj\Debug\DoaNota.csprojResolveAssemblyReference.cache
+C:\projeto\DoaNota\DoaNota\obj\Debug\DoaNota.dll
+C:\projeto\DoaNota\DoaNota\obj\Debug\DoaNota.pdb

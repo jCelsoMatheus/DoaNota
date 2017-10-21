@@ -54,7 +54,7 @@ namespace DoaNota
                 throw new Exception("Senha inválida");
             }
 
-            using (SqlConnection conn = sql.OpenConnection() )
+            using (SqlConnection conn = Sql.OpenConnection() )
             {
                
                 // Cria um comando para inserir um novo registro à tabela
