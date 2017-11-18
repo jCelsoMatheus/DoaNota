@@ -4,6 +4,8 @@ using System.Linq;
 using System.Web;
 using System.Web.UI;
 using System.Web.UI.WebControls;
+using System.Configuration;
+using System.Data.SqlClient;
 
 namespace DoaNota
 {
@@ -11,7 +13,14 @@ namespace DoaNota
     {
         protected void Page_Load(object sender, EventArgs e)
         {
+            
+            //string myConnStr = ConfigurationManager.ConnectionStrings["YourConnectionStringName"].ConnectionString;
 
+            // Create new connection to database and open database
+            //SqlConnection myConn = new SqlConnection();
+            //myConn.ConnectionString = myConnStr; // Set connection string
+            //myConn.Open();
+             
         }
 
 
